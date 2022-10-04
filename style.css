@@ -1,0 +1,45 @@
+h1 {
+    color:black;
+    padding: 15px 15px;
+    border: 2px ;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size:  50px;
+
+}
+
+h2 {
+    color:black;
+    padding: 10px 305px;
+    border: 20px ;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: xx;
+
+}
+
+#startTest {
+    background-color: #892effdc;
+    color: white;
+    padding: 100px;
+    border-radius: 10px;
+    border-color: white;
+    display: block;
+    align-items: center;
+    font-size: 40px;
+    text-align: center;
+}
+
+h4 {
+    color:#892effdc; 
+}
+
+.hs{
+    color:#892effdc;
+}
+
+footer {
+    text-align: center;
+}
