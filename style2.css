@@ -1,0 +1,40 @@
+h1 {
+    color:black;
+    padding: 15px 15px;
+    border: 2px ;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size:  50px;
+
+}
+button{
+    padding: 20px;
+    width:255px;
+    height:55px;
+    color: rgb(0, 0, 0);
+	font-size: 1.1em;
+	border-radius: 30px;
+    background: #892effdc;
+    display: flex;
+    margin:auto;
+    cursor: pointer;    
+}
+
+button:hover {
+    background-color: #b33ca3;
+    color: white;
+  }
+  
+
+h4 {
+    color:#892effdc; 
+}
+
+.hs{
+    color:#892effdc;
+}
+
+footer {
+    text-align: center;
+}

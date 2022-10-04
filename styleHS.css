@@ -1,0 +1,29 @@
+header {
+    text-align: left;
+}
+body {
+    text-align: center;
+}
+
+input{
+    cursor: pointer;
+    color: #892effdc;
+}
+
+input:hover{
+    background-color: #b33ca3;
+    color: white;
+}
+
+
+h4 {
+    color:#892effdc; 
+}
+
+.hs{
+    color:#892effdc;
+}
+
+footer {
+    text-align: center;
+}
